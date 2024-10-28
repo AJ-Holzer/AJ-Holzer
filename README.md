@@ -1,5 +1,5 @@
-# Me
-- Active Developer & Programmer
+# AJ-Holzer
+Active Developer & Programmer
 
 ## Languages
 - Python
