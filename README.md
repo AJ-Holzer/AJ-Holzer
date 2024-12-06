@@ -27,7 +27,6 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 ## 🌐 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/qXREfeTnNm)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link-here)  
 
 ---
 
