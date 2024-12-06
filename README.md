@@ -1,4 +1,4 @@
-# 💻 AJ-Holzer  
+# 💻 **AJ-Holzer**  
 🚀 **Active Developer & Programmer**  
 
 Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.  
