@@ -19,7 +19,7 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 - 🔐 **Cybersecurity Tools**: Focused on enhancing digital safety.  
 - 🎮 **Interactive Hardware Projects**: Including Raspberry Pi Pico integrations.  
 - 🗂️ **Database Management System**: Efficiently managing large file structures with SQLite.
-- 🤖 **Quadrupedal robot**: A cutting-edge robotics project focused on creating a four-legged autonomous robot capable of dynamic movement and task execution.
+- 🤖 **Quadrupedal robot**: [View here](https://github.com/ckfnr/Projekt-Debbie) A cutting-edge robotics project focused on creating a four-legged autonomous robot capable of dynamic movement and task execution.
 
 📌 *More exciting projects in the works—stay tuned!*  
 
