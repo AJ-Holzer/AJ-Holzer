@@ -26,8 +26,8 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 ---
 
 ## 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/qXREfeTnNm)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)<br>
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/qXREfeTnNm)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&color=%2390a030)](https://www.instagram.com/alexjakobholzer)
 
 ## 😊 Connect with my friends
