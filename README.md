@@ -25,6 +25,19 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 
 ---
 
+# 🏁 Current goals
+- Finish project _Debbie_
+- High security messenger (windows and maybe android)
+- Custom home cloud
+- Secure file manager
+
+---
+
+## ⏳ Time Constraints  
+Due to various commitments, I currently have limited time for programming. However, I'm always looking forward to contributing and updating my projects whenever possible!
+
+---
+
 ## 🌐 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)<br>
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/qXREfeTnNm)<br>
