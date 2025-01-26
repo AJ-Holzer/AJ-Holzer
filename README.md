@@ -27,7 +27,7 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 
 # 🏁 Current goals
 - Finish project _Debbie_
-- High security messenger (windows and maybe android)
+- High security and anonymous messenger (windows and maybe android)
 - Custom home cloud
 - Secure file manager
 
