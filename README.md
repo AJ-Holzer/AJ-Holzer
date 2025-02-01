@@ -25,7 +25,7 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 
 ---
 
-🏁 Current Goals
+## 🏁 Current Goals
 - Finish project Debbie
 - Develop a high-security, anonymous messenger (Windows and possibly Android)
 - Create a custom home cloud solution
