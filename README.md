@@ -9,7 +9,6 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 - 🐍 **Python**
 - 🖥️ **Batch Scripting**
 - 🌐 **Web Development** (HTML, CSS, JavaScript)
-- ⚙️ **Automation Tools**
 
 ---
 
