@@ -26,7 +26,7 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 
 ## 🏁 Current Goals
 - Finish project Debbie
-- Develop a high-security, anonymous messenger (Linux, Windoof and possibly Android)
+- Developing a high-security, anonymous messenger for **Linux**, **Windoof** , and possibly **Android** — feel free to join my [Dev-Club](https://discord.gg/kDwsjn9U8F) on Discord!
 - Create a custom home cloud solution
 - Build a secure file manager
 
