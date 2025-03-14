@@ -37,13 +37,6 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 ## ⏳ Time Constraints
 Due to various commitments, I currently have limited time for programming. However, I'm always looking forward to contributing and updating my projects whenever possible!
 
----
-
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)<br>
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/qXREfeTnNm)<br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&color=%2390a030)](https://www.instagram.com/alexjakobholzer)
-
 ## 😊 Connect with my friends
 [![Cesario Kufner](https://img.shields.io/badge/GitHub-Cesario%20Kufner-lightgrey?style=flat&logo=github)](https://github.com/ckfnr)
 
