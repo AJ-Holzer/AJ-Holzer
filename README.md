@@ -1,7 +1,8 @@
 # 💻 **AJ-Holzer**
 🚀 **Active Developer & Programmer**
 
-Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.
+Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.<br>
+For more information, FAQs, and to download my completed projects, visit my website: [ajservers.site](https://ajservers.site).
 
 ---
 
@@ -25,7 +26,6 @@ Welcome to my corner of GitHub! I’m a passionate developer constantly explorin
 ---
 
 ## 🏁 Current Goals
-- Finish project Debbie
 - Developing a high-security, anonymous messenger for **Linux**, **Windows**, and possibly **Android** — feel free to join my [Dev-Club](https://discord.gg/kDwsjn9U8F) on Discord!
 - Create a custom home cloud solution
 - Build a secure file manager
@@ -52,4 +52,4 @@ Due to various commitments, I currently have limited time for programming. Howev
 🎉 _Thanks for visiting my profile—feel free to check out my repositories and drop a star if you like what you see!_ 🚀
 
 
-<!-- No bugs were harmed in the making of this project. Probably. -->
+<!-- No bugs were harmed in the making of my projects. Probably. -->
