@@ -21,7 +21,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 - 🎮 **Interactive Hardware Projects**: Including Raspberry Pi Pico integrations.
 - 🗂️ **Database Management System**: Efficiently managing large file structures with SQLite.
 - 🤖 **Debbie**: [View here](https://github.com/ckfnr/Projekt-Debbie) A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
-- 📰 **High-Security-Messenger**: [ZEPHRA](https://github.com/AJ-Holzer/ZEPHRA), a highly secure and anonymous messenger.
+- 📰 **CHATLEX**: [View here](https://github.com/AJ-Holzer/CHATLEX), a highly secure and anonymous messenger.
 
 📌 _More exciting projects in the works—stay tuned!_
 
