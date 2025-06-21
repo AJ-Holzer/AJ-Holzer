@@ -16,12 +16,9 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ## 🛠️ Projects
 ✨ **Featured Work**
-- 📦 **Custom Python Package**: Simplifying development workflows.
-- 🔐 **Cybersecurity Tools**: Focused on enhancing digital safety.
-- 🎮 **Interactive Hardware Projects**: Including Raspberry Pi Pico integrations.
-- 🗂️ **Database Management System**: Efficiently managing large file structures with SQLite.
-- 🤖 **Debbie**: [View here](https://github.com/ckfnr/Projekt-Debbie) A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
 - 📰 **CHATLEX**: [View here](https://github.com/AJ-Holzer/CHATLEX)! A highly secure and anonymous messenger.
+- 🤖 **Debbie**: [View here](https://github.com/ckfnr/Projekt-Debbie) A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
+- 📦 **Custom Python Package**: Simplifying development workflows.
 
 📌 _More exciting projects in the works—stay tuned!_
 
