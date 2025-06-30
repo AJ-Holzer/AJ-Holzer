@@ -8,7 +8,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ## 🌟 Languages & Technologies
 - 🐍 **Python**
-- 💠 **C#**
+- 💠 **C#** (little bit)
 - 🖥️ **Batch Scripting**
 - 🌐 **Web Development** (HTML, CSS, JavaScript)
 
