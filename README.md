@@ -38,7 +38,6 @@ Due to various commitments, I currently have limited time for programming. Howev
 
 ## 😊 Connect with my friends
 [![Cesario Kufner](https://img.shields.io/badge/GitHub-Cesario%20Kufner-lightgrey?style=flat&logo=github)](https://github.com/ckfnr)
-[![Momen Louati](https://img.shields.io/badge/GitHub-Momen_Louati-lightgrey?style=flat&logo=github)](https://github.com/louatimomen)
 
 ---
 
