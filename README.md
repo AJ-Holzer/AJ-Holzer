@@ -16,8 +16,8 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ## 🛠️ Projects
 ✨ **Featured Work**
-- 📰 **CHATLEX**: [View here](https://github.com/AJ-Holzer/CHATLEX)! A highly secure and anonymous messenger.
-- 🤖 **Debbie**: [View here](https://github.com/ckfnr/Projekt-Debbie) A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
+- 📰 **[CHATLEX](https://github.com/AJ-Holzer/CHATLEX)**: A highly secure and anonymous messenger.
+- 🤖 **[Debbie](https://github.com/ckfnr/Projekt-Debbie)**: A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
 - 📦 **Custom Python Package**: Simplifying development workflows.
 
 📌 _More exciting projects in the works—stay tuned!_
