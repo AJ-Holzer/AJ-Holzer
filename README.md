@@ -20,7 +20,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 # Code-Editors
 - [Visual Studio Code](https://code.visualstudio.com) *(Main Editor)*
 - [Visual Studio](https://visualstudio.microsoft.com/) *(familiar)*
-- [nano](https://www.nano-editor.org) *(when it comes to Terminal)*
+- [nano](https://www.nano-editor.org) *(when it comes to Terminal stuff)*
 
 ---
 
