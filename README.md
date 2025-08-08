@@ -17,8 +17,9 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ---
 
-# Editor
+# Code-Editors
 - [VSCode](https://code.visualstudio.com) *(Main Editor)*
+- [VS](https://visualstudio.microsoft.com/) *(familiar)*
 - [nano](https://www.nano-editor.org) *(when it comes to Terminal)*
 
 ---
