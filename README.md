@@ -17,7 +17,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ---
 
-# Code-Editors
+# ⚒️ Code-Editors
 - [Visual Studio Code](https://code.visualstudio.com) *(Main Editor)*
 - [Visual Studio](https://visualstudio.microsoft.com/) *(familiar)*
 - [nano](https://www.nano-editor.org) *(when it comes to Terminal stuff)*
@@ -51,7 +51,7 @@ Due to various commitments, I currently have limited time for programming. Howev
 
 ---
 
-## 🏆 My GitHub Stats  
+## 🏆 My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Holzer&layout=compact&theme=radical)<br>
 ![AJ-Holzer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-Holzer&show_icons=true&theme=radical)
 
