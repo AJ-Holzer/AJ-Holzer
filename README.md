@@ -7,10 +7,13 @@ For more information, FAQs, and to download my completed projects, visit my webs
 ---
 
 ## 🌟 Languages & Technologies
-- 🐍 **Python**
-- 💠 **C#** (little bit)
-- 🖥️ **Batch Scripting**
-- 🌐 **Web Development** (HTML, CSS, JavaScript)
+| Language                                  | Level / Status   |
+| ----------------------------------------- | ---------------- |
+| Python                                    | Advanced         |
+| Batch Scripting                           | As a Windows-Dev |
+| C#                                        | Beginner         |
+| Web Development *(HTML, CSS, JavaScript)* | Few Websites     |
+| Rust                                      | Learning         |
 
 ---
 
