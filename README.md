@@ -17,6 +17,12 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ---
 
+# Editor
+- [VSCode](https://code.visualstudio.com) *(Main Editor)*
+- [nano](https://www.nano-editor.org) *(when it comes to Terminal)*
+
+---
+
 ## 🛠️ Projects
 ✨ **Featured Work**
 - 📰 **[CHATLEX](https://github.com/AJ-Holzer/CHATLEX)**: A highly secure and anonymous messenger.
