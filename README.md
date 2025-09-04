@@ -13,6 +13,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 | Batch Scripting                           | As a Windows-Dev |
 | C#                                        | Beginner         |
 | Web Development *(HTML, CSS, JavaScript)* | Few Websites     |
+| JS                                        | DC-Bots          |
 | Rust                                      | Learning         |
 
 ---
