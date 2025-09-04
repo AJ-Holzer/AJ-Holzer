@@ -7,14 +7,14 @@ For more information, FAQs, and to download my completed projects, visit my webs
 ---
 
 ## 🌟 Languages & Technologies
-| Language                                  | Level / Status   |
-| ----------------------------------------- | ---------------- |
-| Python                                    | Advanced         |
-| Batch Scripting                           | As a Windows-Dev |
-| C#                                        | Beginner         |
-| Web Development *(HTML, CSS, JavaScript)* | Few Websites     |
-| JS                                        | DC-Bots          |
-| Rust                                      | Learning         |
+| Language                                  | Level / Status     |
+| ----------------------------------------- | ------------------ |
+| Python                                    | Advanced           |
+| Batch Scripting                           | As a Windows-Dev   |
+| C#                                        | Beginner           |
+| Web Development *(HTML, CSS)*             | Few Websites       |
+| JS                                        | DC-Bots / Websites |
+| Rust                                      | Learning           |
 
 ---
 
