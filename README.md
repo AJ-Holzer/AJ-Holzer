@@ -18,13 +18,6 @@ For more information, FAQs, and to download my completed projects, visit my webs
 
 ---
 
-# ⚒️ Code-Editors
-- [Visual Studio Code](https://code.visualstudio.com) *(Main Editor)*
-- [Visual Studio](https://visualstudio.microsoft.com/) *(familiar)*
-- [nano](https://www.nano-editor.org) *(when it comes to Terminal stuff)*
-
----
-
 ## 🛠️ Projects
 ✨ **Featured Work**
 - 📰 **[CHATLEX](https://github.com/AJ-Holzer/CHATLEX)**: A highly secure and anonymous messenger.
@@ -36,7 +29,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 ---
 
 ## 🏁 Current Goals
-- Developing a high-security, anonymous messenger for **Linux**, **Windows**, and possibly **Android** — feel free to join my [Dev-Club](https://discord.gg/kDwsjn9U8F) on Discord!
+- Developing a high-security, anonymous messenger for **Linux**, **Windows**, and **Android** — feel free to join my [Dev-Club](https://discord.gg/kDwsjn9U8F) on Discord!
 - Create a custom home cloud solution
 - Build a secure file manager
 
