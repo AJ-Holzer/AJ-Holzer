@@ -14,7 +14,6 @@ For more information, FAQs, and to download my completed projects, visit my webs
 | C#                                        | Beginner           |
 | Web Development *(HTML, CSS)*             | Few Websites       |
 | JS                                        | DC-Bots / Websites |
-| Rust                                      | Learning           |
 
 ---
 
