@@ -2,7 +2,7 @@
 🚀 **Active Developer & Programmer**
 
 Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.<br>
-For more information, FAQs, and to download my completed projects, visit my website: [ajservers.site](https://ajservers.site).
+For more information, FAQs, and to download my completed projects, visit my website: [ajservers.site](https://ajholzer.net).
 
 ---
 
