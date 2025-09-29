@@ -10,7 +10,7 @@ For more information, FAQs, and to download my completed projects, visit my webs
 | Language                                  | Level / Status     |
 | ----------------------------------------- | ------------------ |
 | Python                                    | Advanced           |
-| Bash Scripting                            | As a Linux-Dev     |
+| Shell Scripting                           | As a Linux-Dev     |
 | C#                                        | Beginner           |
 | Batch Scripting                           | Beginner           |
 | Web Development *(HTML, CSS)*             | Few Websites       |
