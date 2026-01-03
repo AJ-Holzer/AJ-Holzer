@@ -45,13 +45,13 @@ Due to various commitments, I currently have limited time for programming. Howev
 
 ---
 
-## 🏆 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Holzer&layout=compact&theme=radical)<br>
-![AJ-Holzer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-Holzer&show_icons=true&theme=radical)
+<!-- ## 🏆 My GitHub Stats
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/BU ab?username=AJ-Holzer&layout=compact&theme=radical)<br>
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-Holzer&show_icons=true&theme=radical)
 
 
 ---
-
+-->
 🎉 _Thanks for visiting my profile—feel free to check out my repositories and drop a star if you like what you see!_ 🚀
 
 
