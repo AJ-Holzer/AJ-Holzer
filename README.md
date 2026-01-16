@@ -12,7 +12,6 @@ For more information, FAQs, and to download my completed projects, visit my webs
 | Python                                    | Advanced           |
 | C#                                        | Beginner           |
 | Shell Scripting                           | As a Linux-Dev     |
-| Batch Scripting                           | Beginner           |
 | Web Development *(HTML, CSS)*             | Few Websites       |
 | JS                                        | DC-Bots / Websites |
 
