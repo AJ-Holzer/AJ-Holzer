@@ -2,7 +2,7 @@
 🚀 **Active Developer & Programmer**
 
 Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.<br>
-For more information visit my [website](https://ajholzer.net).
+For more information visit my website at [ajholzer.net](https://ajholzer.net).
 
 ---
 
@@ -23,16 +23,15 @@ For more information visit my [website](https://ajholzer.net).
 - 🤖 **[Debbie](https://github.com/ckfnr/Projekt-Debbie)**: A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
 - 📦 **Custom Python Package**: Simplifying development workflows.
 
-📌 _More exciting projects in the works—stay tuned!_
+📌 _More exciting projects in the works - stay tuned!_
 
 ---
 
 ## 🏁 Current Goals
-- Developing a high-security, anonymous messenger for **Linux**, **Windows**, and **Android** — feel free to join my [Dev-Club](https://discord.gg/kDwsjn9U8F) on Discord!
-- Create a custom home cloud solution
-- Build a secure file manager
+- Developing a high-security, anonymous messenger for **Linux**, **Windows**, and **Android**
+- Build a [filesystem manager](https://github.com/aj-holzer/fsmdaemon)
 
-📌 _Some of these goals are ongoing, and progress may vary depending on available time—stay tuned for updates!_
+📌 _Some of these goals are ongoing, and progress may vary depending on available time - stay tuned for updates!_
 
 ---
 
@@ -44,14 +43,7 @@ Due to various commitments, I currently have limited time for programming. Howev
 
 ---
 
-<!-- ## 🏆 My GitHub Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/BU ab?username=AJ-Holzer&layout=compact&theme=radical)<br>
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-Holzer&show_icons=true&theme=radical)
-
-
----
--->
-🎉 _Thanks for visiting my profile—feel free to check out my repositories and drop a star if you like what you see!_ 🚀
+🎉 _Thanks for visiting my profile - feel free to check out my repositories and drop a star if you like what you see!_ 🚀
 
 
 <!-- No bugs were harmed in the making of my projects. Probably. -->
