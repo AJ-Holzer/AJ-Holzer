@@ -1,4 +1,4 @@
-# **AJ-Holzer**
+# AJ-Holzer
 🚀 **Active Developer & Programmer**
 
 Welcome to my corner of GitHub! I’m a passionate developer constantly exploring the world of code.<br>
@@ -28,8 +28,8 @@ For more information visit my website at [ajholzer.net](https://ajholzer.net).
 ---
 
 ## 🏁 Current Goals
-- Developing a high-security, anonymous messenger for **Linux**, **Windows**, and **Android**
-- Build a [filesystem manager](https://github.com/aj-holzer/fsm-daemon)
+- Developing **Blackbird** - an anonymous messaging platform
+- Improve the [FSM Daemon](https://github.com/aj-holzer/fsm-daemon)
 
 📌 _Some of these goals are ongoing, and progress may vary depending on available time - stay tuned for updates!_
 
