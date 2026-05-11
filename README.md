@@ -21,7 +21,7 @@ For more information visit my website at [ajholzer.net](https://ajholzer.net).
 ✨ **Featured Work**
 - 🗃️ **[FSM Daemon](https://github.com/aj-holzer/fsm-daemon):** A simple filesystem management daemon which renames your files according to your custom naming convention.
 - 🤖 **[Debbie](https://github.com/ckfnr/Projekt-Debbie):** A robotics project centered on building a four-legged robot capable of dynamic and precise movement.
-- 📦 **[Gerald](https://github.com/aj-holzer/gerald)**: A Discord bot which can handle some tasks such as banning, applying timeouts and introduce you.
+- 💬 **[Gerald](https://github.com/aj-holzer/gerald)**: A Discord bot which can handle some tasks such as banning, applying timeouts and introduce you.
 
 📌 _More exciting projects in the works - stay tuned!_
 
